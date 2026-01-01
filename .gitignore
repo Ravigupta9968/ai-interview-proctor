@@ -1,0 +1,11 @@
+# Secrets
+backend/.env
+
+# Python Junk
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+# Node Junk
+frontend/node_modules/
+frontend/dist/

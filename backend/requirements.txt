@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+groq
+deepgram-sdk
+edge-tts
+pypdf
+python-multipart
+websockets
+requests
