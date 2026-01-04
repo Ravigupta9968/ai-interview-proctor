@@ -1,6 +1,7 @@
 # 🤖 AI Smart Interviewer & Proctor
 
 A full-stack AI-powered interviewing platform that conducts technical interviews based on uploaded resumes while monitoring the candidate for malpractice using Real-Time Computer Vision.
+<img src="Screenshot/no%20-ai-interview-image.PNG" width="100%" />
 
 ## 📸 Proctoring In Action
 
