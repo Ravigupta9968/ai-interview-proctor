@@ -2,7 +2,17 @@
 
 A full-stack AI-powered interviewing platform that conducts technical interviews based on uploaded resumes while monitoring the candidate for malpractice using Real-Time Computer Vision.
 
-![Project Screenshot](ai%20interview%20image.PNG)
+## 📸 Proctoring In Action
+
+The AI monitors the video feed frame-by-frame on the client-side to detect malpractice.
+
+| **🚫 No Face Detected** | **👥 Multiple People Detected** |
+|:-------------------:|:---------------------------:|
+| <img src="Screenshot/no%20-face-detect.PNG" width="100%" /> | <img src="Screenshot/multiple-people.PNG" width="100%" /> |
+| **👀 Looking Away (Gaze Tracking)** | **📱 Suspicious Device Usage** |
+| <img src="Screenshot/looking-away.PNG" width="100%" /> | <img src="Screenshot/device-usage.PNG" width="100%" /> |
+| **MObile Use** |
+| <img src="Screenshot/mobile-use.PNG" width="100%" /> |
 
 ## 🚀 Features
 
